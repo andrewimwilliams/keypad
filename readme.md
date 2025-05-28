@@ -1,6 +1,6 @@
 # williams9 Keypad
 
-![williams9](public/IMG_2238.jpeg)
+![williams9](public/IMG_2238.jpg)
 
 *A short description of the keyboard/project*
 
