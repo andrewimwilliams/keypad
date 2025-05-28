@@ -1,6 +1,6 @@
 # cpcb/williams9
 
-![cpcb/williams9](imgur.com image replace me!)
+![cpcb/williams9](IMG_2238.jpeg)
 
 *A short description of the keyboard/project*
 
