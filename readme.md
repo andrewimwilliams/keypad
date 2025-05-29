@@ -2,7 +2,7 @@
 
 ![williams9](public/IMG_2238.jpg)
 
-*A short description of the keyboard/project*
+## Description
 
 * Keyboard Maintainer: [Andrew Williams](https://github.com/andrewimwilliams)
 * Hardware Supported:
@@ -20,6 +20,8 @@
 * Key_1: Opens a new browser window
 * Key_2: Opens calculator app
 * Key_9: Mute switch
+
+## Setup
 
 Make example for this keyboard (after setting up your build environment):
 
