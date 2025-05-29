@@ -5,8 +5,21 @@
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Andrew Williams](https://github.com/andrewimwilliams)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+* Hardware Supported:
+    - DROP Holy Panda Switches
+    - Arduino Pro Micro
+    - Chanzon Diodes
+    - Custom PCB from JLCPCB
+* Hardware Availability:
+    - [Switches](https://drop.com/buy/drop-invyr-holy-panda-mechanical-switches?searchId=648c24747bd243da9bf5c01c21cecaa0)
+    - [Arduino](https://www.amazon.com/dp/B08BJNV1J3?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+    - [Diodes](https://www.amazon.com/dp/B079KJ91JZ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
+    - [JLCPCB](https://jlcpcb.com)
+
+## Functions
+* Key_1: Opens a new browser window
+* Key_2: Opens calculator app
+* Key_9: Mute switch
 
 Make example for this keyboard (after setting up your build environment):
 
